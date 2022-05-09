@@ -39,7 +39,6 @@ CMFCApplication1View::CMFCApplication1View() noexcept
 {
 	// TODO: 여기에 생성 코드를 추가합니다.
 	isItTrue = FALSE;
-	ns = {};
 }
 
 CMFCApplication1View::~CMFCApplication1View()
@@ -155,8 +154,6 @@ void CMFCApplication1View::OnTest123()
 	{
 		CString str = _T("");
 		str.Format(_T("%f - %f - %f"), v[0].ptr[0].x, v[0].ptr[0].y, v[0].ptr[0].z);
-		AfxMessageBox(str);
-		str.Format(_T("%f - %f - %f"), v[0].ptrCopy[0].x, v[0].ptrCopy[0].y, v[0].ptrCopy[0].z);
 		AfxMessageBox(str);
 
 		isItTrue = FALSE;

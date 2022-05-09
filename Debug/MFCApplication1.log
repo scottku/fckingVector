@@ -1,6 +1,4 @@
 ﻿  MFCApplication1View.cpp
 C:\Users\scott\source\repos\MFCApplication1\MFCApplication1\MFCApplication1View.h(26): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CMFCApplication1View::MyStruct' 왼쪽은 무시됩니다.
-C:\Users\scott\source\repos\MFCApplication1\MFCApplication1\MFCApplication1View.h(31): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CMFCApplication1View::NewStruct' 왼쪽은 무시됩니다.
-C:\Users\scott\source\repos\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(158,12): warning C4101: 'sample2' :참조되지 않은 지역 변수입니다.
-C:\Users\scott\source\repos\MFCApplication1\MFCApplication1\MFCApplication1View.cpp(157,12): warning C4101: 'sample' :참조되지 않은 지역 변수입니다.
+C:\Users\scott\source\repos\MFCApplication1\MFCApplication1\MFCApplication1View.h(30): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CMFCApplication1View::NewStruct' 왼쪽은 무시됩니다.
   MFCApplication1.vcxproj -> C:\Users\scott\source\repos\MFCApplication1\Debug\MFCApplication1.exe
